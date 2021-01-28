@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music service</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="add10">+10</string>
+    <string name="sub10">-10</string>
+    <string name="pause">||</string>
+    <string name="play">|></string>
+    <string name="stop">[]</string>
+</resources>
